@@ -1,0 +1,8 @@
+//creacion de una variable
+@direccion=http://localhost:3000/consultaJ
+
+
+GET {{direccion}}
+
+###
+POST {{direccion}}
